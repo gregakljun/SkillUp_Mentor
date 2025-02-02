@@ -1,6 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
+  "homepage": "https://gregakljun.github.io/Figma_To_React",
   "private": true,
   "dependencies": {
     "@types/react-router-dom": "^5.3.3",
